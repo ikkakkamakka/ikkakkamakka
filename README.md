@@ -32,32 +32,6 @@
 
 ---
 
-## 🚀 Cool Animation
-
-<img src="https://assets4.lottiefiles.com/private_files/lf30_sxaqomsk.json" alt="rocket launch animation" style="width: 400px;"/>
-
----
-
-## 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/ikkakkamakka/ikkakkamakka/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ⏳ Coding Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikkakkamakka&theme=dark)
-
----
-
-## 💻 Featured Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ikkakkamakka&repo=your-repo&theme=dark)](https://github.com/ikkakkamakka/your-repo)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ikkakkamakka&repo=another-repo&theme=dark)](https://github.com/ikkakkamakka/another-repo)
-
----
-
 ## 🌟 Random Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
