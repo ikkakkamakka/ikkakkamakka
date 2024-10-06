@@ -14,18 +14,15 @@
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
-
----
-
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&layout=compact&theme=dark)
 
 ---
 
 ## Contributions Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your_github_username&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikkakkamakka&theme=react-dark)
 
 ---
 
