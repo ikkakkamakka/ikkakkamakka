@@ -11,7 +11,7 @@
 
 ---
 
-![ikkakkamakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![ikkakkamakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&count_private=true)
 
 ---
 
