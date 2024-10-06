@@ -17,6 +17,18 @@
 
 ---
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dark)
+
+---
+
+## Contributions Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your_github_username&theme=react-dark)
+
+---
+
 ## Technologies I Work With
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs,vue,mysql,mongodb,aws,git,docker,python&theme=dark)](https://skillicons.dev)
