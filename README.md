@@ -1,20 +1,19 @@
 # Hi, I'm Ikkakkamakka
 
-[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](your_website_url)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail)](mailto:your_email@example.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](erictessers.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7CACA&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!)
 
 ## Nze's GitHub Stats
 
-![Nze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark)
+![Nze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikkakkamakka&theme=dark)
 
 ---
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&langs_count=10&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
 
 ---
 
