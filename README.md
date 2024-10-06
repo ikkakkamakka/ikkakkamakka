@@ -12,15 +12,11 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
-
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
-
 ---
-
 ## Contributions Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikkakkamakka&theme=react-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikkakkamakka&theme=react-dark)
 ---
 
 ## Technologies I Work With
