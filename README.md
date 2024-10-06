@@ -1,6 +1,6 @@
 # Hi, I'm Ikkakkamakka
 
-[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](erictessers.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](www.erictessers.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7CACA&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!)
 
