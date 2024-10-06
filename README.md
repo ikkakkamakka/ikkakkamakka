@@ -16,7 +16,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
 ---
 ## Contributions Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikkakkamakka&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikkakkamakka&theme=dracula)
 ---
 
 ## Technologies I Work With
