@@ -27,7 +27,14 @@
 ---
 
 ## 🏆 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikkakkamakka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 Cool Animation
+
+<img src="https://assets4.lottiefiles.com/private_files/lf30_sxaqomsk.json" alt="rocket launch animation" style="width: 400px;"/>
 
 ---
 
@@ -38,6 +45,7 @@
 ---
 
 ## ⏳ Coding Stats
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikkakkamakka&theme=dark)
 
 ---
@@ -50,3 +58,8 @@
 
 ---
 
+## 🌟 Random Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
