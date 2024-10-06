@@ -26,3 +26,27 @@
 
 ---
 
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikkakkamakka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://github.com/ikkakkamakka/ikkakkamakka/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⏳ Coding Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikkakkamakka&theme=dark)
+
+---
+
+## 💻 Featured Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ikkakkamakka&repo=your-repo&theme=dark)](https://github.com/ikkakkamakka/your-repo)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ikkakkamakka&repo=another-repo&theme=dark)](https://github.com/ikkakkamakka/another-repo)
+
+---
+
