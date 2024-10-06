@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7CACA&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!)
 
-## Nze's GitHub Stats
+## My Stats
 
 ![Nze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show_icons=true&theme=dark&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikkakkamakka&theme=dark)
@@ -14,12 +14,6 @@
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
-
----
-
-## Project Demo
-
-![Project Demo](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
 
 ---
 
