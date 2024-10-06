@@ -37,5 +37,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+## 🌟 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{ikkakkamakka}/count.svg)
