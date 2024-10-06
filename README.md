@@ -6,7 +6,7 @@
 
 ## My Stats
 
-![Nze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show_icons=true&theme=dark&count_private=true)
+![Ikkakamakka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show_icons=true&theme=ambient_gradient&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikkakkamakka&theme=dark)
 
 ---
@@ -14,9 +14,6 @@
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&langs_count=10&layout=compact&theme=dark)
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkakkamakka&layout=compact&theme=dark)
 
 ---
 
