@@ -1,11 +1,10 @@
 # Hi, I'm Ikkakkamakka
 
-[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)]([www](https://)erictessers.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](https://erictessers.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7CACA&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!)
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&count_private=true&show_icons=true&theme=dark&include_all_commits=true&token=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)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikkakkamakka&theme=dark)
 ![ikkakkamakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikkakkamakka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&count_private=true)
 
