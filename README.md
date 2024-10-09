@@ -1,4 +1,4 @@
-# Hi, I'm Eric Tessers 👋
+# Hi, I'm Eric 👋
 
 [![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](https://erictessers.com)
 
