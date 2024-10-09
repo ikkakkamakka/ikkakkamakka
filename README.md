@@ -1,4 +1,4 @@
-# Hi, I'm Ikkakkamakka 👋
+# Hi, I'm Eric Tessers 👋
 
 [![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome)](https://erictessers.com)
 
